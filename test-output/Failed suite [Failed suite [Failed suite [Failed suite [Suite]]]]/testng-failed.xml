@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Failed suite [Failed suite [Failed suite [Failed suite [Suite]]]]]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)(failed)(failed)(failed)(failed)">
+    <classes>
+      <class name="admin_scripts.Ad_Manage_Devices">
+        <methods>
+          <include name="tc5_searchTB_Invalid"/>
+          <include name="tc7_Scoll_for_Name"/>
+          <include name="closeApp"/>
+          <include name="openApp"/>
+        </methods>
+      </class> <!-- admin_scripts.Ad_Manage_Devices -->
+    </classes>
+  </test> <!-- Test(failed)(failed)(failed)(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [Failed suite [Failed suite [Failed suite [Suite]]]]] -->
